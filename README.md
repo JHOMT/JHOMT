@@ -30,24 +30,15 @@ I'm a 2021 UTP undergrad. Currently learning Data Structures and Algorithms, whi
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/kajal-k-a217511ba/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/jhomt/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://fb.com/kajalkumari23" target="blank"><img align="center"
+      <a href="https://web.facebook.com/jhoncleiver.mendozatiquillahuanca/" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="mailto:kajalkumari2303@gmail.com" target="blank"><img align="center"
+      <a href="mailto:jhomti2002@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/hiii.kajal" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/__kajal___" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <br>
     </p>
   </samp>
 </div>
@@ -127,6 +118,6 @@ I'm a 2021 UTP undergrad. Currently learning Data Structures and Algorithms, whi
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-Credit: [Kajal Kumari](https://github.com/kajalkumari23)
+Credit: [Kajal Kumari](https://github.com/jhomt)
 
 Last Edited on: 14/01/2023
