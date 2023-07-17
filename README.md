@@ -19,8 +19,6 @@ I'm Jhon Mendoza a 2021 UTP undergrad. Currently learning Data Structures and Al
 ✔  📫 &nbsp;How to reach me, you can email me at [Gmail](jhomti2002@gmail.com)<br>
 ✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jhomt/),If I am alive I will answer within seconds 😉<br>
 ✔  📚 &nbsp; When I am free, I read finance and Buisness books.<br>
-✔ ⚡ &nbsp; Fun fact: I started investing after watching scam 1992.😉
-<br>
 
 <!-- contact me -->
 <details>
