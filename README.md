@@ -13,9 +13,9 @@ I'm a 2021 UTP undergrad. Currently learning Data Structures and Algorithms, whi
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔  🔭 &nbsp; I’m currently working on Web Development using Node.js and Express.
+✔  🔭 &nbsp; I’m currently working on Web Development using HTML5 and CSS3.
 ✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
-✔  💬 Ask me about Java, HTML, CSS, Bootstrap, React<br>
+✔  💬 Ask me about Java, HTML, CSS<br>
 ✔  📫 &nbsp;How to reach me, you can email me at [Gmail](kajalkumari@gmail.com)<br>
 ✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kajal-k-a217511ba/),If I am alive I will answer within seconds 😉<br>
 ✔  📚 &nbsp; When I am free, I read finance and Buisness books.<br>
