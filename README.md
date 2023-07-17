@@ -2,7 +2,7 @@
  
 # Hello!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
-I'm a 2021 UTP undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development - React. I love exploring and learning new tech stack. 
+I'm Jhon Mendoza, I'm a 2021 UTP undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development - React. I love exploring and learning new tech stack. 
 <br/>
 <br/>
 <p align="center">
@@ -102,22 +102,13 @@ I'm a 2021 UTP undergrad. Currently learning Data Structures and Algorithms, whi
 </a>
 
 
- 
  <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
- 
-<p align="center">🤍 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<p align="center">Made with ❤️ by Kajal</p>
-
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-Credit: [Kajal Kumari](https://github.com/jhomt)
-
-Last Edited on: 14/01/2023
