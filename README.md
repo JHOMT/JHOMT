@@ -95,10 +95,7 @@ I'm Jhon Mendoza a 2021 UTP undergrad. Currently learning Data Structures and Al
  <br>
  
  <h3 align="center">Visitor Count</h3>
-<a href="https://profile-counter.glitch.me/JHOMT/count.svg">
-  ![VisitorCount](https://profile-counter.glitch.me/JHOMT/count.svg)
-</a>
-
+![VisitorCount](https://profile-counter.glitch.me/JHOMT/count.svg)
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
