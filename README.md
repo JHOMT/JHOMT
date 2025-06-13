@@ -77,17 +77,17 @@ I'm Jhon Mendoza a 2021 UTP undergrad. Currently learning Data Structures and Al
  
 <p align="center">
  
-![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHOMT&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHOMT&layout=compact)
-![Trophy](https://github-profile-trophy.vercel.app/?username=JHOMT&theme=onedark&row=1&column=7)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JHOMT&theme=dark)
- 
-<!--  # Productivity Stats📈: -->
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kajalkumari23&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+ ![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHOMT&count_private=true&show_icons=true&theme=radical)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHOMT&layout=compact)
+ ![Trophy](https://github-profile-trophy.vercel.app/?username=JHOMT&theme=onedark&row=1&column=7)
+ ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JHOMT&theme=dark)
+  
+ <!--  # Productivity Stats📈: -->
+ <table>
+   <tr>
+     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JHOMT&theme=monokai" alt="Profile Details" style="display:block; width:100%; height:auto;" /></td>
    </tr>
-</table>
+ </table>
  </p>
  </samp>
  </div>
