@@ -48,19 +48,22 @@ I'm Jhon Mendoza a 2021 UTP undergrad. Currently learning Data Structures and Al
  <samp>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" style="vertical-align:top; margin:4px" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="vertical-align:top; margin:4px" width="60" height="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" style="vertical-align:top; margin:4px" width="60" height="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" style="vertical-align:top; margin:4px" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="vertical-align:top; margin:4px" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" style="vertical-align:top; margin:4px" width="60" height="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" style="vertical-align:top; margin:4px" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="vertical-align:top; margin:4px" width="60" height="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" style="vertical-align:top; margin:4px" width="60" height="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="vertical-align:top; margin:4px" width="60" height="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="vertical-align:top; margin:4px" width="60" height="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="vertical-align:top; margin:4px" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="vertical-align:top; margin:4px" width="60" height="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" style="vertical-align:top; margin:4px" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original-wordmark.svg" alt="sqlserver" style="vertical-align:top; margin:4px" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" style="vertical-align:top; margin:4px" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" style="vertical-align:top; margin:4px" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original-wordmark.svg" alt="powerbi" style="vertical-align:top; margin:4px" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman" style="vertical-align:top; margin:4px" width="60" height="60">
 </p>
-
  </samp> 
  </div>
  </details>
