@@ -95,19 +95,17 @@ I'm Jhon Mendoza a 2021 UTP undergrad. Currently learning Data Structures and Al
  <br>
  
  <h3 align="center">Visitor Count</h3>
-<a align="center" href="https://profile-counter.glitch.me/{kajalkumari23}/count.svg">
-  
- ![VisitorCount](https://profile-counter.glitch.me/{kajalkumari23}/count.svg)  
-  
+<a href="https://profile-counter.glitch.me/JHOMT/count.svg">
+  ![VisitorCount](https://profile-counter.glitch.me/JHOMT/count.svg)
 </a>
 
 
- <div align="center">
+<div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/>
+  </a>
 </div>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Bottom"/>
 </p>
