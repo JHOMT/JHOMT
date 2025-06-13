@@ -77,13 +77,10 @@ I'm Jhon Mendoza a 2021 UTP undergrad. Currently learning Data Structures and Al
  
 <p align="center">
  
-[![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kajalkumari23&count_private=true&show_icons=true&theme=radical)](https://github.com/kajalkumari23)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajalkumari23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kajalkumari23&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=kajalkumari23&theme=dark)
+![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHOMT&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHOMT&layout=compact)
+![Trophy](https://github-profile-trophy.vercel.app/?username=JHOMT&theme=onedark&row=1&column=7)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JHOMT&theme=dark)
  
 <!--  # Productivity Stats📈: -->
 <table>
